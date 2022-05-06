@@ -15,3 +15,4 @@ Mid-Term-Project
 https://www.youtube.com/watch?v=RBDoN0ehZXE
 ### 전 앞으로 소프트웨어학과의 학생으로서
 ### 사회의 일원이 될 수 있는 개발자로 성장하고 싶습니다.
+### 감사합니다!!
