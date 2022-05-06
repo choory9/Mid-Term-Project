@@ -11,3 +11,5 @@ Mid-Term-Project
 ![image1](https://user-images.githubusercontent.com/104351078/167065957-072c5535-00b4-4f29-b229-5ce65bb889cb.jpg)
 ### 강의가 많지 않아 과목 하나하나 잘해보려고 노력중입니다.
 ### 다만 최근에 요리에 빠져서 요리 유튜브를 많이 보고 있습니다. 
+### 제가 즐겨보는 요리 유튜브 채널을 알려드리겠습니다.
+https://www.youtube.com/watch?v=RBDoN0ehZXE
