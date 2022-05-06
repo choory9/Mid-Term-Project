@@ -13,3 +13,4 @@ Mid-Term-Project
 ### 다만 최근에 요리에 빠져서 요리 유튜브를 많이 보고 있습니다. 
 ### 제가 즐겨보는 요리 유튜브 채널을 알려드리겠습니다.
 https://www.youtube.com/watch?v=RBDoN0ehZXE
+### 전 앞으로 소프트웨어학과의 학생으로서
